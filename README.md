@@ -1,6 +1,6 @@
 # intent_test
 
-A new Flutter project.
+Flutter proyect in android, open ZeroTier app using timer 
 
 ## Getting Started
 
